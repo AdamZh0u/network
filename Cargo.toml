@@ -1,11 +1,10 @@
 [package]
-name = "rust"
+name = "rust_network"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+eframe = "0.24.1"
+egui = "0.24.1"
+egui_plot = "0.24.1"
 rand = "0.8.5"
-
-[[bin]]
-name = "main"
-path = "src/main.rs"
