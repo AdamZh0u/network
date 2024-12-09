@@ -2,5 +2,5 @@
 
 This is a simple Ising model simulation written in Rust.
 
-![image](./image/ising.png)
+![image](./img/ising.png)
 
